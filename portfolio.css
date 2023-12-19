@@ -1,0 +1,30 @@
+.imgaston{
+    border-radius: 50%;
+}
+.maindiv{
+    background-color: #44444456;
+}
+.services{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content:space-around;
+}
+.a1{
+    height: 100px;
+    width: 180px;
+
+    margin-left: 100px;
+}
+.services p{
+    text-align: center;
+}
+.serv{
+    display: flex;
+    justify-content: space-around;
+}
+.serv{
+    background-color: #44444418;
+}
+.mt-0{
+    background-color: #44444409;
+}
